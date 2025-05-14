@@ -14,7 +14,7 @@ This project is a **Library Management System** implemented in Java. It is a con
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Java (JDK 8 or higher)**
 - Object-Oriented Programming principles (OOP)
